@@ -1,6 +1,7 @@
 /*
  * cl /c LoadLibrary.c
  * link LoadLibrary.objb
+ //////
  */
 
 #include <windows.h>
